@@ -122,11 +122,17 @@ footer p {
 /* 記事部分 */
 article {
   width: 60%;
+  order: 3;
 }
 
 /* サイドバー */
 aside {
   width: 22%;
+  order: 3;
+}
+
+.ad {
+  order: 1;
 }
 
 .news-contents {
