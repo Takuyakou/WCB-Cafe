@@ -224,6 +224,7 @@ aside p {
 .menu-content p {
   font-size: 1.125rem;
   margin: 10px 0 0;
+  color: #fff
 }
 
 @media (max-width: 600px) {
